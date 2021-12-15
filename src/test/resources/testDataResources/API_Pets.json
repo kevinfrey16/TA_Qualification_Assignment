@@ -1,0 +1,16 @@
+[
+    {
+    "id": 1256,
+    "category": {
+      "id": 1256,
+      "name": "Mars"
+    },
+    "name": "Cat",
+    "photoUrls": "photo",
+    "tags": {
+        "id": 1256,
+        "name": "Mars"
+      },
+    "status": "available"
+    }
+]

@@ -1,0 +1,16 @@
+[	
+	{
+		"user": "user_empty_account",
+        "firstName": "Steve",
+		"lastName": "Johnson",
+		"userName": "SteveJ",
+        "password": "SteveJ@123test"
+	},
+	{
+		"user": "user_with_added_books",
+        "firstName": "Melissa",
+		"lastName": "Smith",
+		"userName": "MelS",
+        "password": "MelS@123test"
+	}
+]

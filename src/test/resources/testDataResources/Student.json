@@ -1,0 +1,66 @@
+[	
+	{
+		"id": "student_01",
+        "firstName": "Steve",
+		"lastName": "Johnson",
+		"email": "SteveJ@example.com",
+        "gender": "Male",
+        "mobileNumber": "2108843874",
+        "dateOfBirth": "13 December 1990",
+        "subjects": [
+			"Maths", 
+            "Arts", 
+            "Chemistry"
+    ],
+        "hobbies": [
+            "Reading",
+			"Music"
+        ],
+        "picture": "SteveJ",
+		"address": "Durga Colony",
+        "state": "Haryana",
+		"city": "Karnal"
+	},
+	{
+		"id": "student_02",
+        "firstName": "Melissa",
+		"lastName": "Smith",
+		"email": "MelS@example.com",
+        "gender": "Female",
+        "mobileNumber": "2108238855",
+        "dateOfBirth": "08 January 1995",
+        "subjects":[ 
+			"English",
+            "History"
+        ],
+        "hobbies": [
+			"Sports",
+            "Reading"
+        ],
+        "picture": "SteveJ",
+	    "address": "Tagore Garden",
+        "state": "NCR",
+		"city": "Delhi"
+	},
+    {
+		"id": "student_03",
+        "firstName": "David",
+		"lastName": "Foster",
+		"email": "DavidF@example.com",
+        "gender": "Male",
+        "mobileNumber": "2105733398",
+        "dateOfBirth": "26 July 1988",
+        "subjects": [
+			"Physics",
+            "Arts",
+			"Commerce"
+        ],
+        "hobbies": [
+			"Music"
+        ],
+        "picture": "SteveJ",
+	    "address": "C-10 Vishal Enclave",
+        "state": "NCR",
+		"city": "Delhi"
+	}
+]

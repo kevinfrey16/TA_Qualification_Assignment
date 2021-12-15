@@ -1,0 +1,37 @@
+[	
+	{
+		"bookName": "Git Pocket Guide",
+        "author": "Richard E. Silverman",
+		"publisher": "O'Reilly Media"
+	},
+	{
+		"bookName": "Learning JavaScript Design Patterns",
+        "author": "Addy Osmani",
+		"publisher": "O'Reilly Media"
+	},
+    {
+		"bookName": "Designing Evolvable Web APIs with ASP.NET",
+        "author": "Glenn Block et al.",
+		"publisher": "O'Reilly Media"
+	},
+    {
+		"bookName": "Speaking JavaScript",
+        "author": "Axel Rauschmayer",
+		"publisher": "O'Reilly Media"
+	},
+    {
+		"bookName": "You Don't Know JS",
+        "author": "Kyle Simpson",
+		"publisher": "O'Reilly Media"
+	},
+    {
+		"bookName": "Programming JavaScript Applications",
+        "author": "Eric Elliott",
+		"publisher": "O'Reilly Media"
+	},
+    {
+		"bookName": "Eloquent JavaScript, Second Edition",
+        "author": "Marijn Haverbeke",
+		"publisher": "O'Reilly Media"
+	}
+]
